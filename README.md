@@ -6,7 +6,7 @@
 
 [![Ask Me Anything!](https://flat.badgen.net/static/Ask%20me/anything?icon=github&color=black&scale=1.01)](https://github.com/HemendraJawariya "Ask Me Anything!")
 [![GitHub license](https://flat.badgen.net/github/license/HemendraJawariya/game-website?icon=github&color=black&scale=1.01)](https://github.com/HemendraJawariya/game-website/blob/main/LICENSE "GitHub license")
-[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/sanidhyy/HemendraJawariya/commits/main "Maintenance")
+[![Maintenance](https://flat.badgen.net/static/Maintained/yes?icon=github&color=black&scale=1.01)](https://github.com/HemendraJawariya/commits/main "Maintenance")
 [![GitHub branches](https://flat.badgen.net/github/branches/HemendraJawariya/game-website?icon=github&color=black&scale=1.01)](https://github.com/HemendraJawariya/game-website/branches "GitHub branches")
 [![Github commits](https://flat.badgen.net/github/commits/HemendraJawariya/game-website?icon=github&color=black&scale=1.01)](https://github.com/HemendraJawariya/game-website/commits "Github commits")
 [![GitHub issues](https://flat.badgen.net/github/issues/HemendraJawariya/game-website?icon=github&color=black&scale=1.01)](https://github.com/HemendraJawariya/game-website/issues "GitHub issues")
