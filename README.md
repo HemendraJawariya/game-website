@@ -11,7 +11,7 @@
 [![Github commits](https://flat.badgen.net/github/commits/HemendraJawariya/game-website?icon=github&color=black&scale=1.01)](https://github.com/HemendraJawariya/game-website/commits "Github commits")
 [![GitHub issues](https://flat.badgen.net/github/issues/HemendraJawariya/game-website?icon=github&color=black&scale=1.01)](https://github.com/HemendraJawariya/game-website/issues "GitHub issues")
 [![GitHub pull requests](https://flat.badgen.net/github/prs/HemendraJawariya/game-website?icon=github&color=black&scale=1.01)](https://github.com/HemendraJawariya/game-website/pulls "GitHub pull requests")
-[![Netlify Status](https://api.netlify.com/api/v1/badges/8e15a161-8615-4046-9869-4af8feb3c221/deploy-status)]( "Netlify Status")
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8e15a161-8615-4046-9869-4af8feb3c221/deploy-status)](https://nova-game-website.vercel.app/ "Netlify Status")
 
 <!-- Table of Contents -->
 <details>
@@ -114,7 +114,7 @@ game-website/
 
 ## :wrench: Stats
 
-[![Stats for Nova](/.github/images/stats.svg "Stats for Nova")]( "Stats for Nova")
+[![Stats for Nova](/.github/images/stats.svg "Stats for Nova")]( https://nova-game-website.vercel.app/ "Stats for Nova")
 
 ## :raised_hands: Contribute
 
